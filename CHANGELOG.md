@@ -2,6 +2,12 @@
 
 After updating, hard-refresh your browser (Ctrl/Cmd+Shift+R) and clear its cache if the page doesn't display correctly — before submitting a debug .json.
 
+## Unreleased
+
+- fix: the width reset also drops the last-measured fallback snapshot
+- feat: Variables tab sizes the name column to the names and reads tighter
+- fix: Docker version labels are no longer cut off after Check for Updates
+
 ## 2026.10.14
 
 - Advanced preview has a new Variables tab
