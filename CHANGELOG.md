@@ -2,7 +2,7 @@
 
 After updating, hard-refresh your browser (Ctrl/Cmd+Shift+R) and clear its cache if the page doesn't display correctly — before submitting a debug .json.
 
-## Unreleased
+## 2026.10.23.1 (beta)
 
 - Resolved the width reset also drops the last-measured fallback snapshot
 - Improved the spacing and layout of the variables tab
