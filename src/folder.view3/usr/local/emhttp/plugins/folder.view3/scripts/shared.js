@@ -1961,6 +1961,7 @@ window.fv3HasWidthSnapshot = () => {
 // Forget every view's snapshot so the next build re-measures — for content changes a replay can't see.
 window.fv3ResetWidthSnapshots = () => {
     _fv3ViewCache = {};
+    _fv3WidthSnapshots = null;
 };
 
 window.fv3ApplyCachedWidths = () => {
