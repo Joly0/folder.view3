@@ -4,9 +4,9 @@ After updating, hard-refresh your browser (Ctrl/Cmd+Shift+R) and clear its cache
 
 ## Unreleased
 
-- fix: the width reset also drops the last-measured fallback snapshot
-- feat: Variables tab sizes the name column to the names and reads tighter
-- fix: Docker version labels are no longer cut off after Check for Updates
+- Resolved the width reset also drops the last-measured fallback snapshot
+- Improved the spacing and layout of the variables tab
+- Docker version labels are no longer cut off after Check for Updates
 
 ## 2026.10.14
 
